@@ -1,16 +1,76 @@
 ## Hi there 👋
 
 <!--
-**SALMONLAND/SALMONLAND** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🍀 2021년
+- 07. 15
+표창장 (봉사부분). 천천중학교
+- 10.26
+미래인재상(1위) 천천중학교 창의력대회
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🍀 2022년
+- 09.18
+Python 2급. 자격번호:22_P2_2219437 (YBM) 
+-11.12
+통일부장관상.  ‘2022 사랑의 일기 큰잔치 세계대회
+<관련기사>
+https://www.seoul.co.kr/news/newsView.php?id=20221113500108
+
+
+🍀 2023년
+- 10.21
+특별상 (사)인간성회복운동 추진협회
+- 09.17
+2023 ROBOTEX & MRC Global Olympiad Korea International 스모 3kg부분 2위
+(로보텍스 코리아 로봇 코딩대회 2위)
+- 11.17
+2023 ROBOTEX 세계대회출전 에스토니아. 탈린 
+공동 19위
+-12.03
+23-24 FIRST LEGO LEAGUE KOREA
+퓨처디자인 예선통과
+
+
+🍀 2024년
+- 03.04
+동원고등학교 1학년 2반 학급회장
+- 04.20
+은상  (2024년 제2회 IT코딩 발명대회)
+- 06.29
+특별상 (사)인간성회복운동 추진협회
+- 07.22
+공로상 동원고
+- 07.24
+4회 Advance Insights CHallenge의 KLA 장학팀 선발 (창의공학교육협회)
+- 10.19-20
+제1회 경기 청소년 사이버 보안 캠프(1차,2차교육)
+- 11.
+KLA 로봇제작 코딩대회 디자인부분 3위 
+(창의공학교육협회)
+- 11.24 일기수상작 책출판
+https://www.viva100.com/article/20250122501539
+https://m.yes24.com/goods/detail/142166309
+- 12.31
+은상 동원고 사진전
+- 12.31
+학교생활 우수자 동원고
+- 12
+제1회 미래과학 콘서트 2위 동원고
+주제:
+
+
+🍀 2025년
+- 01.8-10
+2025 일본 마쓰야마 글로벌 과학캠프. 동원고
+주제발표 : 
+- 01.20
+KRC 로봇대회
+- 01.26 
+24-25 FIRST LEGO LEAGUE KOREA
+Outstanding Strategy 뛰어난 전략가상
+- 03.09 
+c언어 2급 자격번호 25_C2_2119163 (YBM)
+
+- 05.18
+제1회 경기 청소년 사이버 보안 캠프(3차교육)
+(경기도 교육감 수료증)
